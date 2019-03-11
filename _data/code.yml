@@ -162,3 +162,17 @@
         - surveillance
         
       license: Apache License 2.0
+- title: MicrobeTrace
+  id: microbetrace
+  image: image256.png
+  tagline: MicrobeTrace - A platform for viewing and comparing genomic and contact-tracing networks
+  repos:
+  - title: MicrobeTrace
+      url: https://github.com/CDCgov/MicrobeTrace
+      description: MicrobeTrace is a bioinformatics tool/platform for integrating disparate data files to view and comparing microbial genomic and contact-tracing networks.
+      tags:
+        - MicrobeTrace
+        - javascript
+        - network visualization
+        - epidemiology
+      license: Apache License 2.0
